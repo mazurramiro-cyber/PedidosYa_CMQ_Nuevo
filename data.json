@@ -1360,6 +1360,7 @@
     }
   ],
   "dates": [
+    "2026-08-11",
     "2026-08-12"
   ],
   "stats": [
@@ -1754,10 +1755,10 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-12 12:03:29",
+    "generado": "2026-08-12 12:10:25",
     "sku_rows": 97,
     "registros_validos": 108,
-    "dias": 1,
+    "dias": 2,
     "plataforma": "PedidosYa"
   }
 }
