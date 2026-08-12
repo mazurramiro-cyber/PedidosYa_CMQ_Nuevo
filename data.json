@@ -21,11 +21,6 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 2890.0,
-          "ptc": 2312.0,
-          "dinamica": 0.2
-        },
         "2026-08-12": {
           "fleje": 2919.0,
           "ptc": 2335.2,
@@ -40,11 +35,6 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4200.0,
-          "ptc": 3150.0,
-          "dinamica": 0.25
-        },
         "2026-08-12": {
           "fleje": 4200.0,
           "ptc": 3360.0,
@@ -115,11 +105,6 @@
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 2745.0,
-          "ptc": 2196.0,
-          "dinamica": 0.2
-        },
         "2026-08-12": {
           "fleje": 2745.0,
           "ptc": 2196.0,
@@ -143,16 +128,11 @@
     },
     {
       "marca": "Quilmes",
-      "sku": "Cerveza Quilmes Clasica 710ml",
+      "sku": "Cerveza Quilmes Clásica 710ml",
       "calibre": "710/730",
       "grupo": "CMQ",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 3965.0,
-          "ptc": 2973.75,
-          "dinamica": 0.25
-        },
         "2026-08-12": {
           "fleje": 3965.0,
           "ptc": 3172.0,
@@ -181,11 +161,6 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4390.0,
-          "ptc": 4390.0,
-          "dinamica": 0.0
-        },
         "2026-08-12": {
           "fleje": 4200.0,
           "ptc": 4200.0,
@@ -228,11 +203,6 @@
       "grupo": "Competencia",
       "segmento": "Core",
       "dates": {
-        "2026-08-10": {
-          "fleje": 3815.0,
-          "ptc": 3815.0,
-          "dinamica": 0.0
-        },
         "2026-08-12": {
           "fleje": 3815.0,
           "ptc": 3815.0,
@@ -247,11 +217,6 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
-        "2026-08-10": {
-          "fleje": 3499.0,
-          "ptc": 2624.25,
-          "dinamica": 0.25
-        },
         "2026-08-12": {
           "fleje": 3499.0,
           "ptc": 1749.5,
@@ -336,11 +301,6 @@
       "grupo": "CMQ",
       "segmento": "Core+",
       "dates": {
-        "2026-08-10": {
-          "fleje": 2889.0,
-          "ptc": 2311.2,
-          "dinamica": 0.2
-        },
         "2026-08-12": {
           "fleje": 2889.0,
           "ptc": 1733.4,
@@ -448,16 +408,11 @@
     },
     {
       "marca": "Imperial",
-      "sku": "Cerveza Imperial Golden 710 ml",
+      "sku": "Cerveza Imperial Golden 710 mL",
       "calibre": "710/730",
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4990.0,
-          "ptc": 3243.5,
-          "dinamica": 0.35
-        },
         "2026-08-12": {
           "fleje": 4785.0,
           "ptc": 4067.25,
@@ -486,11 +441,6 @@
       "grupo": "Competencia",
       "segmento": "Core+",
       "dates": {
-        "2026-08-10": {
-          "fleje": 3729.0,
-          "ptc": 2237.4,
-          "dinamica": 0.4
-        },
         "2026-08-12": {
           "fleje": 3729.0,
           "ptc": 3729.0,
@@ -575,11 +525,6 @@
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4269.0,
-          "ptc": 3201.75,
-          "dinamica": 0.25
-        },
         "2026-08-12": {
           "fleje": 4269.0,
           "ptc": 2561.4,
@@ -650,11 +595,6 @@
       "grupo": "CMQ",
       "segmento": "Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 6260.0,
-          "ptc": 5008.0,
-          "dinamica": 0.2
-        },
         "2026-08-12": {
           "fleje": 6260.0,
           "ptc": 5008.0,
@@ -753,11 +693,6 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 6355.0,
-          "ptc": 5401.75,
-          "dinamica": 0.15
-        },
         "2026-08-12": {
           "fleje": 6355.0,
           "ptc": 5401.75,
@@ -814,11 +749,6 @@
       "grupo": "Competencia",
       "segmento": "Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 3210.0,
-          "ptc": 1605.0,
-          "dinamica": 0.5
-        },
         "2026-08-12": {
           "fleje": 3210.0,
           "ptc": 1605.0,
@@ -1029,11 +959,6 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4550.0,
-          "ptc": 3640.0,
-          "dinamica": 0.2
-        },
         "2026-08-12": {
           "fleje": 4550.0,
           "ptc": 3640.0,
@@ -1062,11 +987,6 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 4929.0,
-          "ptc": 3203.85,
-          "dinamica": 0.35
-        },
         "2026-08-12": {
           "fleje": 4929.0,
           "ptc": 3203.85,
@@ -1095,11 +1015,6 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 7490.0,
-          "ptc": 5617.5,
-          "dinamica": 0.25
-        },
         "2026-08-12": {
           "fleje": 7490.0,
           "ptc": 5617.5,
@@ -1142,11 +1057,6 @@
       "grupo": "CMQ",
       "segmento": "Super Premium",
       "dates": {
-        "2026-08-10": {
-          "fleje": 7590.0,
-          "ptc": 3795.0,
-          "dinamica": 0.5
-        },
         "2026-08-12": {
           "fleje": 7549.0,
           "ptc": 5284.3,
@@ -1343,11 +1253,6 @@
       "grupo": "CMQ",
       "segmento": "Value",
       "dates": {
-        "2026-08-10": {
-          "fleje": 2390.0,
-          "ptc": 2032.0,
-          "dinamica": 0.15
-        },
         "2026-08-12": {
           "fleje": 2225.0,
           "ptc": 1891.25,
@@ -1404,11 +1309,6 @@
       "grupo": "Competencia",
       "segmento": "Value",
       "dates": {
-        "2026-08-10": {
-          "fleje": 2245.0,
-          "ptc": 1347.0,
-          "dinamica": 0.4
-        },
         "2026-08-12": {
           "fleje": 2245.0,
           "ptc": 1347.0,
@@ -1457,25 +1357,9 @@
           "dinamica": 0.0
         }
       }
-    },
-    {
-      "marca": "Andes",
-      "sku": "Cerveza Andes Origen Rubia 710 ml",
-      "calibre": "710/730",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dates": {
-        "2026-08-10": {
-          "fleje": 4990.0,
-          "ptc": 3243.5,
-          "dinamica": 0.35
-        }
-      }
     }
   ],
   "dates": [
-    "2026-08-10",
-    "2026-08-11",
     "2026-08-12"
   ],
   "stats": [
@@ -1483,121 +1367,21 @@
       "marca": "Andes Origen",
       "grupo": "CMQ",
       "segmento": "Core+",
-      "dias": 2,
-      "dias_dinamica": 2,
+      "dias": 1,
+      "dias_dinamica": 1,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.35000000000000003,
-      "avg_ptc": 2431.6142857142854
+      "avg_dinamica": 0.3666666666666667,
+      "avg_ptc": 2399.508333333333
     },
     {
       "marca": "Pampa",
       "grupo": "Competencia",
       "segmento": "Premium",
-      "dias": 2,
-      "dias_dinamica": 2,
+      "dias": 1,
+      "dias_dinamica": 1,
       "max_dinamica": 0.5,
-      "avg_dinamica": 0.38571428571428573,
-      "avg_ptc": 1971.857142857143
-    },
-    {
-      "marca": "Patagonia",
-      "grupo": "CMQ",
-      "segmento": "Super Premium",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.5,
-      "avg_dinamica": 0.33999999999999997,
-      "avg_ptc": 4344.68
-    },
-    {
-      "marca": "Michelob Ultra",
-      "grupo": "CMQ",
-      "segmento": "Core+",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.30000000000000004,
-      "avg_ptc": 2022.3
-    },
-    {
-      "marca": "Ortuzar",
-      "grupo": "Competencia",
-      "segmento": "Value",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.4,
-      "avg_ptc": 1835.5714285714287
-    },
-    {
-      "marca": "Stella Artois",
-      "grupo": "CMQ",
-      "segmento": "Premium",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.20909090909090908,
-      "avg_ptc": 3668.490909090909
-    },
-    {
-      "marca": "Corona",
-      "grupo": "CMQ",
-      "segmento": "Super Premium",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.2,
-      "avg_ptc": 4047.2125
-    },
-    {
-      "marca": "Imperial",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.35,
-      "avg_dinamica": 0.06499999999999999,
-      "avg_ptc": 3446.5
-    },
-    {
-      "marca": "Brahma",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.25,
-      "avg_dinamica": 0.2,
-      "avg_ptc": 2532.17
-    },
-    {
-      "marca": "Quilmes",
-      "grupo": "CMQ",
-      "segmento": "Core",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.25,
-      "avg_dinamica": 0.17857142857142858,
-      "avg_ptc": 2362.85
-    },
-    {
-      "marca": "Heineken",
-      "grupo": "Competencia",
-      "segmento": "Premium",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.2,
-      "avg_dinamica": 0.08333333333333333,
-      "avg_ptc": 4212.95
-    },
-    {
-      "marca": "1890",
-      "grupo": "CMQ",
-      "segmento": "Value",
-      "dias": 2,
-      "dias_dinamica": 2,
-      "max_dinamica": 0.15,
-      "avg_dinamica": 0.15,
-      "avg_ptc": 1961.625
+      "avg_dinamica": 0.3666666666666667,
+      "avg_ptc": 2033.0
     },
     {
       "marca": "Rabieta",
@@ -1610,24 +1394,44 @@
       "avg_ptc": 2557.1875
     },
     {
-      "marca": "Miller",
-      "grupo": "Competencia",
-      "segmento": "Core+",
-      "dias": 2,
-      "dias_dinamica": 1,
-      "max_dinamica": 0.4,
-      "avg_dinamica": 0.1,
-      "avg_ptc": 4406.1
-    },
-    {
-      "marca": "Andes",
+      "marca": "Michelob Ultra",
       "grupo": "CMQ",
       "segmento": "Core+",
       "dias": 1,
       "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.4,
+      "avg_ptc": 1733.4
+    },
+    {
+      "marca": "Ortuzar",
+      "grupo": "Competencia",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.4000000000000001,
+      "avg_ptc": 1917.0
+    },
+    {
+      "marca": "Stella Artois",
+      "grupo": "CMQ",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.4,
+      "avg_dinamica": 0.20555555555555557,
+      "avg_ptc": 3571.516666666667
+    },
+    {
+      "marca": "Corona",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
       "max_dinamica": 0.35,
-      "avg_dinamica": 0.35,
-      "avg_ptc": 3243.5
+      "avg_dinamica": 0.16,
+      "avg_ptc": 3983.2699999999995
     },
     {
       "marca": "Guiness",
@@ -1638,6 +1442,16 @@
       "max_dinamica": 0.3,
       "avg_dinamica": 0.275,
       "avg_ptc": 3305.275
+    },
+    {
+      "marca": "Patagonia",
+      "grupo": "CMQ",
+      "segmento": "Super Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.3,
+      "avg_dinamica": 0.3,
+      "avg_ptc": 4482.1
     },
     {
       "marca": "Temple",
@@ -1680,6 +1494,46 @@
       "avg_ptc": 2493.75
     },
     {
+      "marca": "Brahma",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.18333333333333335,
+      "avg_ptc": 2399.616666666667
+    },
+    {
+      "marca": "Heineken",
+      "grupo": "Competencia",
+      "segmento": "Premium",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.06999999999999999,
+      "avg_ptc": 3975.19
+    },
+    {
+      "marca": "Quilmes",
+      "grupo": "CMQ",
+      "segmento": "Core",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.2,
+      "avg_dinamica": 0.16,
+      "avg_ptc": 2274.04
+    },
+    {
+      "marca": "1890",
+      "grupo": "CMQ",
+      "segmento": "Value",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.15,
+      "avg_dinamica": 0.15,
+      "avg_ptc": 1891.25
+    },
+    {
       "marca": "Bierhaus",
       "grupo": "Competencia",
       "segmento": "Revisar",
@@ -1690,14 +1544,24 @@
       "avg_ptc": 3607.7916666666665
     },
     {
+      "marca": "Imperial",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 1,
+      "max_dinamica": 0.15,
+      "avg_dinamica": 0.03333333333333333,
+      "avg_ptc": 3469.0555555555557
+    },
+    {
       "marca": "Amstel",
       "grupo": "Competencia",
       "segmento": "Core",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3826.3333333333335
+      "avg_ptc": 3544.5
     },
     {
       "marca": "Antares",
@@ -1750,6 +1614,16 @@
       "avg_ptc": 4315.0
     },
     {
+      "marca": "Miller",
+      "grupo": "Competencia",
+      "segmento": "Core+",
+      "dias": 1,
+      "dias_dinamica": 0,
+      "max_dinamica": 0,
+      "avg_dinamica": 0.0,
+      "avg_ptc": 5129.0
+    },
+    {
       "marca": "Peroni",
       "grupo": "Competencia",
       "segmento": "Premium",
@@ -1763,11 +1637,11 @@
       "marca": "Schneider",
       "grupo": "Competencia",
       "segmento": "Core",
-      "dias": 2,
+      "dias": 1,
       "dias_dinamica": 0,
       "max_dinamica": 0,
       "avg_dinamica": 0.0,
-      "avg_ptc": 3415.0
+      "avg_ptc": 3215.0
     },
     {
       "marca": "Starberg",
@@ -1880,10 +1754,10 @@
     }
   ],
   "meta": {
-    "generado": "2026-08-12 11:53:00",
-    "sku_rows": 98,
-    "registros_validos": 129,
-    "dias": 3,
+    "generado": "2026-08-12 12:03:29",
+    "sku_rows": 97,
+    "registros_validos": 108,
+    "dias": 1,
     "plataforma": "PedidosYa"
   }
 }
